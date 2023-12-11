@@ -1,0 +1,64 @@
+{
+    "employees": [
+        {
+            "employeeID": "1",
+            "name": "Luffy",
+            "salary": 50000,
+            "department": "IT"
+        },
+        {
+            "employeeID": "2",
+            "name": "Goku",
+            "salary": 29000,
+            "department": "Finance"
+        },
+        {
+            "employeeID": "3",
+            "name": "Allen Walker",
+            "salary": 90000,
+            "department": "Web Design"
+        },
+        {
+            "employeeID": "4",
+            "name": "Mob",
+            "salary": 100000,
+            "department": "Human Resources"
+        },
+        {
+            "employeeID": "5",
+            "name": "Eren",
+            "salary": 15000000000,
+            "department": "Customer Service"
+        },
+        {
+            "employeeID": "6",
+            "name": "Sanji",
+            "salary": 4500000,
+            "department": "Food Manufactoring"
+        },
+        {
+            "employeeID": "7",
+            "name": "Johan",
+            "salary": 1000,
+            "department": "Legal"
+        },
+        {
+            "employeeID": "8",
+            "name": "Yusuke",
+            "salary": 376000,
+            "department": "Administration"
+        },
+        {
+            "employeeID": "9",
+            "name": "Guts",
+            "salary": 586000,
+            "department": "Sales"
+        },
+        {
+            "employeeID": "10",
+            "name": "Ichigo",
+            "salary": 1000,
+            "department": "Public Relation"
+        }
+    ]
+}
