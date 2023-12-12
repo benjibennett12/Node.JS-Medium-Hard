@@ -6,7 +6,7 @@ const employeeJSONBuffer = fs.readFileSync('employee.json');
 const employee = JSON.parse(employeeJSONBuffer);
 
 
-app.get('/employees', (req, res) => { .  //employees is the path/ trigger for the request and res.json is the response with a JSON of employees
+app.get('/employees', (req, res) => {   //employees is the path/ trigger for the request and res.json is the response with a JSON of employees
     res.json(employee);
 });
 
